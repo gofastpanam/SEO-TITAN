@@ -1,9 +1,8 @@
-# SEO Titan 🔍
+# SEO Titan - Conquer Rankings with Precision
 
 <div>
   <img src="seotitan.jpg" alt="seotitan" width="600">
 </div>
-
 
 Un outil d'analyse SEO avancé qui examine une page web et génère un rapport détaillé sur différents aspects SEO importants. Cet outil est conçu pour aider les webmasters et les spécialistes SEO à identifier rapidement les problèmes et opportunités d'optimisation.
 
