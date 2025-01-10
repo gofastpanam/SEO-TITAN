@@ -45,8 +45,8 @@ Un outil d'analyse SEO avancé qui examine une page web et génère un rapport d
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-username/seo-analyzer.git
-cd seo-analyzer
+git clone https://github.com/gofastpanam/seo-titan.git
+cd seo-titan
 ```
 
 2. Créez un environnement virtuel (recommandé) :
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 1. Lancez l'analyseur :
 ```bash
-python seo_analyzer.py
+python main.py
 ```
 
 2. Suivez les instructions dans le terminal :
